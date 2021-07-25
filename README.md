@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rinnubabu
+- 👋 Hi, I’m @Riddhiverma
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Robotics
 
